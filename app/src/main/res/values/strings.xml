@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Submission Search Movie</string>
+    <string name="url">https://api.themoviedb.org/3/</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nisl purus, interdum porta lacus sit amet, tristique malesuada massa. Sed finibus pharetra turpis, ut rutrum massa dictum id. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam condimentum rutrum libero ac porttitor. Vivamus quis dui nulla. Curabitur laoreet sit amet metus nec euismod. Aliquam aliquam, mauris quis malesuada placerat, est nunc varius sem, a varius lorem orci nec dui. Nullam nec sagittis velit, ut imperdiet nisl. Nam euismod pretium tortor et facilisis. Etiam vitae dui cursus, bibendum leo ac, rhoncus risus.</string>
 </resources>
